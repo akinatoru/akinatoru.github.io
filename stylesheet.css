@@ -5,7 +5,10 @@ body {
   margin: 0;
   padding: 0;
 }
-
+image{
+  width: 500px;
+  height: 200px;
+  
 header {
   background-color: #4CAF50;
   color: white;
